@@ -4,11 +4,11 @@ public class TraceLogin {
 
 	public static void main(String[] args)
 	{
-		browserlaunch();
+		browserlaunchDemo();
 
 	}
 	
-	static void browserlaunch()
+	static void browserlaunchDemo()
 	{
 		System.out.println("Browser launched");
 	}
