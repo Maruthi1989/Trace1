@@ -38,7 +38,7 @@ public class TraceLogin {
 		System.out.println("welcome");
 	}
 	
-	static void simple()
+	static void simpleDemo()
 	{
 		System.out.println("Hello");
 	}
