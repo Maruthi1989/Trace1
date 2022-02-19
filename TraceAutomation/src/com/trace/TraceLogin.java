@@ -12,5 +12,10 @@ public class TraceLogin {
 	{
 		System.out.println("Browser launched");
 	}
+	
+	static void actiTimeLogin()
+	{
+		System.out.println("Login done");
+	}
 
 }
