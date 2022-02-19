@@ -17,5 +17,15 @@ public class TraceLogin {
 	{
 		System.out.println("Login done");
 	}
+	
+	static void createUser()
+	{
+		System.out.println("User created");
+	}
+	
+	static void deleteUser()
+	{
+		System.out.println("Delete User");
+	}
 
 }
