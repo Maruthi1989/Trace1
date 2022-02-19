@@ -27,5 +27,10 @@ public class TraceLogin {
 	{
 		System.out.println("Delete User");
 	}
+	
+	static void timetrack()
+	{
+		System.out.println("Time track");
+	}
 
 }
