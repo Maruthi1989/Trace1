@@ -32,5 +32,10 @@ public class TraceLogin {
 	{
 		System.out.println("Time track");
 	}
+	
+	static void sss()
+	{
+		System.out.println("welcome");
+	}
 
 }
